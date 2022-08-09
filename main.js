@@ -83,16 +83,67 @@ class MyHeader extends HTMLElement {
                     <ul class="sub-menu">
                         <li id="menu-item-234"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
-                                href="I30.html" data-hover="1">I3O IoT in Agriculture</a></li>
+                                href="pt self.html" data-hover="1">Self</a></li>
+                        <li id="menu-item-234"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
+                                href="pt I30.html" data-hover="1">I3O IoT in Agriculture</a></li>
                         <li id="menu-item-78"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a
-                                href="WSEEC.html" data-hover="1">WSEEC - SEEN</a></li>
+                                href="pt WSEEC.html" data-hover="1">WSEEC - SEEN</a></li>
                         <li id="menu-item-233"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a
-                                href="PHP2D.html" data-hover="1">PHP2D</a></li>
+                                href="pt PHP2D.html" data-hover="1">PHP2D</a></li>
                         <li id="menu-item-232"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
-                                href="KRSRI.html" data-hover="1">KRSRI</a></li>
+                                href="pt KRSRI.html" data-hover="1">KRSRI</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt bellodesainstudio.html" data-hover="1">Bello Desain Studio</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt irmabumbubali.html" data-hover="1">Irma Bumbu Bali</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt garam gangga.html" data-hover="1">Garam Gangga</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt name card surya.html" data-hover="1">Name Card</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt KMMI.html" data-hover="1">KMMI</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt IKU.html" data-hover="1">IKU</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt destinasi wisata.html" data-hover="1">Destinasi Wisata</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt webinar fhis.html" data-hover="1">Webinar FHIS</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt traderdewata.html" data-hover="1">Trader Dewata</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt sedana law.html" data-hover="1">sedana law</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt maggot.html" data-hover="1">Maggot</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt rumah roti.html" data-hover="1">Rumah Roti</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt icopesh.html" data-hover="1">icopesh</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt laporan tahunan rektor.html" data-hover="1">Laporan Tahunan Rektor</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt smart durian.html" data-hover="1">Smart Durian</a></li>
+                        <li id="menu-item-232"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
+                                href="pt e pecalang.html" data-hover="1">E - Pecalang</a></li>
 
                     </ul>
                 </li>
