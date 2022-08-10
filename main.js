@@ -2,6 +2,7 @@ class MyHeader extends HTMLElement {
     connectedCallback() {
         
         this.innerHTML = `
+        
         <header id="site_header" class="header">
         <div class="header-content">
             <div class="menu-button">
