@@ -148,16 +148,7 @@ class MyHeader extends HTMLElement {
 
                     </ul>
                 </li>
-                <li id="menu-item-246"
-                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-246">
-                    <a href="#" data-hover="1">Blog</a>
-                    <ul class="sub-menu">
-                        <li id="menu-item-328"
-                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-328"><a
-                                href="post1.html" data-hover="1">Blog 1</a></li>
-
-                    </ul>
-                </li>
+                
                 <li id="menu-item-111"
                     class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a
                         href="contact.html" data-hover="1">Contact</a></li>
@@ -302,3 +293,16 @@ $(document).ready(function () {
         $(' li').addClass('active');
     }
 });
+
+
+
+{/* <li id="menu-item-246"
+                    class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-246">
+                    <a href="#" data-hover="1">Blog</a>
+                    <ul class="sub-menu">
+                        <li id="menu-item-328"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-328"><a
+                                href="post1.html" data-hover="1">Blog 1</a></li>
+
+                    </ul>
+                </li> */}
