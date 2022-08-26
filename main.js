@@ -87,7 +87,16 @@ class MyHeader extends HTMLElement {
                                 href="pt self.html" data-hover="1">Self</a></li>
                         <li id="menu-item-234"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
+                                href="https://drive.google.com/drive/folders/1aoYamnwH0INBcZ1oS6cOWJHGwsfA9zk2?usp=sharing" target="_blank" data-hover="1">AQAS</a></li>
+                        <li id="menu-item-234"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
                                 href="pt I30.html" data-hover="1">I3O IoT in Agriculture</a></li>
+                        <li id="menu-item-234"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
+                                href="https://drive.google.com/drive/folders/1RRZWu9ZXwwwPPAnhdS8xLFzXBJsbTRdu?usp=sharing" data-hover="1">HALLANDA</a></li>
+                        <li id="menu-item-234"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
+                                href="https://undiksha.ac.id/laporan-rektor/buku-laporan-tahunan-2022/mobile/index.html" target="_blank" data-hover="1">Laporan Rektor 2022</a></li>
                         <li id="menu-item-78"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a
                                 href="pt WSEEC.html" data-hover="1">WSEEC - SEEN</a></li>
@@ -157,89 +166,7 @@ class MyHeader extends HTMLElement {
     </header>
 
 
-    <div class="r-sidebar">
-                <div class="sidebar-button">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-            </div>
-
-            <div id="blog-sidebar" class="blog-sidebar">
-                <div class="blog-sidebar-content clearfix">
-
-                    <div class="sidebar-item">
-                        <div class="sidebar-title">
-                            <h4>Recent Posts</h4>
-                        </div>
-                        <ul>
-                            <li>
-                                <a href="blog/2020/06/22/best-practices-for-animated-progress-indicators/index.html">Best
-                                    Practices for Animated Progress Indicators</a>
-                            </li>
-                            <li>
-                                <a href="blog/2020/06/22/designing-the-perfect-feature-comparison-table/index.html">Designing
-                                    the Perfect Feature Comparison Table</a>
-                            </li>
-                            <li>
-                                <a href="blog/2020/06/22/an-overview-of-e-commerce-platforms/index.html">An Overview of
-                                    E-Commerce Platforms</a>
-                            </li>
-                            <li>
-                                <a href="blog/2020/06/22/why-i-switched-to-sketch-for-ui-design/index.html">Why I
-                                    Switched to Sketch For UI Design</a>
-                            </li>
-                            <li>
-                                <a href="blog/2020/06/22/creative-and-innovative-navigation-designs/index.html">Creative
-                                    and Innovative Navigation Designs</a>
-                            </li>
-                        </ul>
-
-                    </div>
-                    <div class="sidebar-item">
-                        <div class="sidebar-title">
-                            <h4>Archives</h4>
-                        </div>
-                        <ul>
-                            <li><a href='blog/2020/06/index.html'>June 2020</a></li>
-                        </ul>
-
-                    </div>
-                    <div class="sidebar-item">
-                        <div class="sidebar-title">
-                            <h4>Categories</h4>
-                        </div>
-                        <ul>
-                            <li class="cat-item cat-item-12"><a href="blog/category/design/index.html">Design</a>
-                            </li>
-                            <li class="cat-item cat-item-10"><a
-                                    href="blog/category/e-commerce/index.html">E-Commerce</a>
-                            </li>
-                            <li class="cat-item cat-item-11"><a href="blog/category/ui/index.html">UI</a>
-                            </li>
-                            <li class="cat-item cat-item-1"><a
-                                    href="blog/category/uncategorized/index.html">Uncategorized</a>
-                            </li>
-                            <li class="cat-item cat-item-13"><a href="blog/category/wordpress/index.html">WordPress</a>
-                            </li>
-                        </ul>
-
-                    </div>
-                    <div class="sidebar-item">
-                        <div class="sidebar-title">
-                            <h4>Meta</h4>
-                        </div>
-                        <ul>
-                            <li><a href="wp-login.html">Log in</a></li>
-                            <li><a href="feed/index.html">Entries feed</a></li>
-                            <li><a href="comments/feed/index.html">Comments feed</a></li>
-
-                            <li><a href="https://wordpress.org/">WordPress.org</a></li>
-                        </ul>
-
-                    </div>
-                </div>
-            </div>
+    
         `;
     }
 }
@@ -306,3 +233,88 @@ $(document).ready(function () {
 
                     </ul>
                 </li> */}
+
+
+            //     <div class="r-sidebar">
+            //     <div class="sidebar-button">
+            //         <span></span>
+            //         <span></span>
+            //         <span></span>
+            //     </div>
+            // </div>
+
+            // <div id="blog-sidebar" class="blog-sidebar">
+            //     <div class="blog-sidebar-content clearfix">
+
+            //         <div class="sidebar-item">
+            //             <div class="sidebar-title">
+            //                 <h4>Recent Posts</h4>
+            //             </div>
+            //             <ul>
+            //                 <li>
+            //                     <a href="blog/2020/06/22/best-practices-for-animated-progress-indicators/index.html">Best
+            //                         Practices for Animated Progress Indicators</a>
+            //                 </li>
+            //                 <li>
+            //                     <a href="blog/2020/06/22/designing-the-perfect-feature-comparison-table/index.html">Designing
+            //                         the Perfect Feature Comparison Table</a>
+            //                 </li>
+            //                 <li>
+            //                     <a href="blog/2020/06/22/an-overview-of-e-commerce-platforms/index.html">An Overview of
+            //                         E-Commerce Platforms</a>
+            //                 </li>
+            //                 <li>
+            //                     <a href="blog/2020/06/22/why-i-switched-to-sketch-for-ui-design/index.html">Why I
+            //                         Switched to Sketch For UI Design</a>
+            //                 </li>
+            //                 <li>
+            //                     <a href="blog/2020/06/22/creative-and-innovative-navigation-designs/index.html">Creative
+            //                         and Innovative Navigation Designs</a>
+            //                 </li>
+            //             </ul>
+
+            //         </div>
+            //         <div class="sidebar-item">
+            //             <div class="sidebar-title">
+            //                 <h4>Archives</h4>
+            //             </div>
+            //             <ul>
+            //                 <li><a href='blog/2020/06/index.html'>June 2020</a></li>
+            //             </ul>
+
+            //         </div>
+            //         <div class="sidebar-item">
+            //             <div class="sidebar-title">
+            //                 <h4>Categories</h4>
+            //             </div>
+            //             <ul>
+            //                 <li class="cat-item cat-item-12"><a href="blog/category/design/index.html">Design</a>
+            //                 </li>
+            //                 <li class="cat-item cat-item-10"><a
+            //                         href="blog/category/e-commerce/index.html">E-Commerce</a>
+            //                 </li>
+            //                 <li class="cat-item cat-item-11"><a href="blog/category/ui/index.html">UI</a>
+            //                 </li>
+            //                 <li class="cat-item cat-item-1"><a
+            //                         href="blog/category/uncategorized/index.html">Uncategorized</a>
+            //                 </li>
+            //                 <li class="cat-item cat-item-13"><a href="blog/category/wordpress/index.html">WordPress</a>
+            //                 </li>
+            //             </ul>
+
+            //         </div>
+            //         <div class="sidebar-item">
+            //             <div class="sidebar-title">
+            //                 <h4>Meta</h4>
+            //             </div>
+            //             <ul>
+            //                 <li><a href="wp-login.html">Log in</a></li>
+            //                 <li><a href="feed/index.html">Entries feed</a></li>
+            //                 <li><a href="comments/feed/index.html">Comments feed</a></li>
+
+            //                 <li><a href="https://wordpress.org/">WordPress.org</a></li>
+            //             </ul>
+
+            //         </div>
+            //     </div>
+            // </div>
