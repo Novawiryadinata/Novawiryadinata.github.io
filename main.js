@@ -87,6 +87,15 @@ class MyHeader extends HTMLElement {
                                 href="pt self.html" data-hover="1">Self</a></li>
                         <li id="menu-item-234"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
+                                href="https://drive.google.com/drive/folders/1jlfE6haiWFsBglV3OxdHFZQM2_uUUThw?usp=sharing" target="_blank" data-hover="1">View All</a></li>
+                        <li id="menu-item-234"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
+                                href="https://drive.google.com/drive/folders/1lFaulYuKHBf4v26Vl-GeKskGQ7mICr7P?usp=sharing" target="_blank" data-hover="1">POSTER, FEED, VBG, COVER DLL</a></li>
+                        <li id="menu-item-234"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
+                                href="https://drive.google.com/drive/folders/1ei_iS5B_cZeZY1PTKiFgjFAh4jQSxh5R?usp=sharing" target="_blank" data-hover="1">Power Point</a></li>
+                        <li id="menu-item-234"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
                                 href="https://drive.google.com/drive/folders/1aoYamnwH0INBcZ1oS6cOWJHGwsfA9zk2?usp=sharing" target="_blank" data-hover="1">AQAS</a></li>
                         <li id="menu-item-234"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a
@@ -100,9 +109,15 @@ class MyHeader extends HTMLElement {
                         <li id="menu-item-78"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a
                                 href="pt WSEEC.html" data-hover="1">WSEEC - SEEN</a></li>
+                        <li id="menu-item-78"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-78"><a
+                                href="pt bandos.html" data-hover="1">Bandos</a></li>
                         <li id="menu-item-233"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a
                                 href="pt PHP2D.html" data-hover="1">PHP2D</a></li>
+                        <li id="menu-item-233"
+                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-233"><a
+                                href="https://www.instagram.com/integer.hmjtiundiksha/" target="_blank" data-hover="1">FEED INTEGER 2 & 3</a></li>
                         <li id="menu-item-232"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a
                                 href="pt KRSRI.html" data-hover="1">KRSRI</a></li>
